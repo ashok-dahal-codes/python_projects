@@ -58,7 +58,7 @@ python attribute.py
 ## 🧠 Requirements
 
 * Python 3.6+
-* No external libraries (only standard Python modules used)
+* No external libraries.
 
 ---
 
